@@ -7,3 +7,5 @@ ratings_small.csv
 ratings.csv
 .ipynb_checkpoints/Nest_function_test-checkpoint.ipynb
 Nest_function_test.ipynb
+config.py
+__pycache__/config.cpython-37.pyc
